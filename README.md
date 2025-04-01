@@ -68,6 +68,14 @@ To configure agents, go to the Admin Panel, navigate the Agent tab, and select a
 To configure customer, go to the Admin Panel, navigate the users tab, and select add new. Enter the customer's name and email and they will be able to simulate ticket creation.
 
 </p>
+
+
+<h2>Summary</h2>
+<p>
+With the osTicket system successfully installed, we can now configure it to simulate a real-world scenario. This includes setting up departments, roles, teams, agents, and end users. Additionally, agents can prioritize tickets using Service Level Agreements (SLAs), which can also be configured in osTicket. They can communicate both privately and publicly with end users through the system. Finally, once the simulated issue is resolved, agents can close the ticket.
+</p>
+
+
 <br /># post-install-config
 
 
