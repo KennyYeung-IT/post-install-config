@@ -49,7 +49,7 @@ To configure teams, go to the admin panel, navigate the Agent tab, and select 't
 ![image](https://github.com/user-attachments/assets/3b4f1fcd-5c79-4063-85a4-cf23d122b2bc)
 
 <p>
-The current osTicket system only allows registered users to generate a ticket. In order to change that head over to the Admin Panel, navigate the settings tab, then user settings, and uncheck the option 'require registration and login to create tickets.' This would allow unregistered users to submit tickets without through email, phone call, and portal. 
+The current osTicket system only allows registered users to generate a ticket. In order to change that head over to the Admin Panel, navigate the settings tab, then user settings, and uncheck the option 'require registration and login to create tickets.' This would allow unregistered users to submit tickets through email, phone call, and portal. 
 
 </p>
 
